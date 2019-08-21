@@ -20,7 +20,7 @@ import eli5  # for purmutation importance
 from eli5.sklearn import PermutationImportance
 from sklearn.ensemble.bagging import BaggingClassifier
 
-#Import all necesary libararies, used for modeling and data processing
+#Import all necessary libararies, used for modeling and data processing
 
 df = pd.read_csv("NFA 2018.csv")
 
